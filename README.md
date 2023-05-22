@@ -36,7 +36,7 @@
 </div>
 
 
-![snake animation](https://github.com/bragavitorj/bragavitorj/blob/output/github-contribution-grid-snak.svg)
+![snake animation](https://github.com/rafaballerini/bragavitorj/blob/output/github-contribution-grid-snak.svg)
 
 
 
