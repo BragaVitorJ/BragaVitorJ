@@ -1,4 +1,4 @@
-### Olá! Eu sou o Vítor Braga
+### Olá! Meu nome é Vítor, seja bem vindo ao meu GitHub!!
 
 - 🔭 Atualmente trabalho como Analista de Implantação
 - 🌱 Estudando Flutter & Dart
