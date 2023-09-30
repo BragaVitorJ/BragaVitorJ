@@ -1,7 +1,7 @@
 ### Olá! Meu nome é Vítor, seja bem vindo ao meu GitHub!!
 
 - 🔭 Atualmente trabalho como Analista de Implantação
-- 🌱 Estudando JavaScrip & Nodejs
+- 🌱 Estudando JavaScript & Nodejs
 - ✅ Cursando Ciência da Computação
 
 
