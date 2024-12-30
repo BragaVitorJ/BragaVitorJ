@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente trabalho como Analista de Implantação
 - 🌱 Estudando JavaScript & Nodejs
-- ✅ Cursando Ciência da Computação
+- ✅ Graduado em Ciência da Computação
 
 
 <picture>
