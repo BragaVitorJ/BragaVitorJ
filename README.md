@@ -53,8 +53,3 @@ Seja bem-vindo ao meu GitHub! Aqui você encontra meus projetos, estudos e exper
 </div>
 
 ---
-
-## 📌 Principais Projetos
-
-- 📁 [baixarProcesso-frontend](https://github.com/BragaVitorJ/baixarProcesso-frontend) — Ferramenta para baixar processos automaticamente
-- 📁 [outro-projeto](https://github.com/BragaVitorJ) — Em breve adiciono mais detalhes por aqui!
