@@ -2,8 +2,7 @@
 
 Seja bem-vindo ao meu GitHub! Aqui você encontra meus projetos, estudos e experimentações no mundo do desenvolvimento web.
 
-- 🔭 Desenvolvedor Web Júnior focado em aplicações modernas  
-- 🌱 Atualmente estudando **JavaScript**, **Node.js** e **TypeScript**  
+- 🔭 Desenvolvedor Full Stack Júnior focado em aplicações modernas.
 - 🎓 Graduado em Ciência da Computação pela UNA Bom Despacho  
 - 💻 Apaixonado por criar soluções úteis e funcionais  
 
