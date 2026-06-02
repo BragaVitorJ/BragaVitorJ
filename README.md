@@ -53,8 +53,8 @@ Tenho interesse em desenvolvimento de aplicações web, bancos de dados, integra
 
 ---
 
+> "Transformando desafios em soluções através da tecnologia."
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BragaVitorJ&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
-
-> "Transformando desafios em soluções através da tecnologia."
